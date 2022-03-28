@@ -2,7 +2,7 @@ justin-tg/README.md
  
 👋 Hi, I'm Justin, a software engineer with a background in philosophy from Seattle.
 
-https://www.linkedin.com/in/justin-greer1/ | justin.t.greer1@gmail.com
+www.linkedin.com/in/justin-greer1/ | justin.t.greer1@gmail.com
 
   - Front-end: JavaScript (ES5/6) | React | jQuery | HTML5 | CSS | Styled Components | Bootstrap
   - Backend: Node.js | Axios | Express | SQL | NoSQL
