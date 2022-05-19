@@ -1,6 +1,6 @@
 justin-tg/README.md
  
-👋 Hi, I'm Justin, a software engineer with a background in philosophy from Seattle.
+👋 Hi, I'm Justin, a full stack software engineer with a background in philosophy from Seattle.
 
 www.linkedin.com/in/justin-greer1/ | justin.t.greer1@gmail.com
 
