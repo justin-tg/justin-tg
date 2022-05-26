@@ -1,7 +1,8 @@
 justin-tg/README.md
  
 👋 Hi, I'm Justin, a full stack software engineer and graduate from University of Colorado currently in the greater Seattle area
-www.linkedin.com/in/justin-greer1/ | justin.t.greer1@gmail.com
+
+Contact information: www.linkedin.com/in/justin-greer1/ | justin.t.greer1@gmail.com
 
 Technical Skillset:
   - Front-end: JavaScript (ES5/6) | React | jQuery | HTML5 | CSS | Styled Components | Bootstrap
